@@ -8,3 +8,4 @@
 // My favorite video game is Undertale.
 
 // Question 3: What is your favorite color?
+// My favorite color is blue
