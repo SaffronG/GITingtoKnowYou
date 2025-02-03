@@ -5,3 +5,4 @@
 // Mtn Dew Major Melon
 
 // Question 2: What is your favorite video game?
+// My favorite video game is Undertale.
