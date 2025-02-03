@@ -6,3 +6,5 @@
 
 // Question 2: What is your favorite video game?
 // My favorite video game is Undertale.
+
+// Question 3: What is your favorite color?
